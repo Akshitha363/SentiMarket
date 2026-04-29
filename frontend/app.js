@@ -929,7 +929,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadBackendData() {
     try {
-        const res = await fetch("http://localhost:5000/api/sentiment");
+        const res = await fetch("https://sentimarket-backend-6oqi.onrender.com/api/sentiment");
         const data = await res.json();
 
         console.log("✅ Backend Connected:", data);
