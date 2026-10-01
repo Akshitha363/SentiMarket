@@ -1,6 +1,6 @@
 # SentiMarket 🚀
 
-AI-Powered Cryptocurrency Sentiment Analysis Dashboard
+Cryptocurrency Sentiment Analysis Dashboard
 
 ---
 
